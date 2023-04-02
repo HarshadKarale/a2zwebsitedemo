@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/a2zwebsitedemo/static/css/main.2cc1184c.css",
+    "main.js": "/a2zwebsitedemo/static/js/main.e4bf760f.js",
+    "index.html": "/a2zwebsitedemo/index.html",
+    "main.2cc1184c.css.map": "/a2zwebsitedemo/static/css/main.2cc1184c.css.map",
+    "main.e4bf760f.js.map": "/a2zwebsitedemo/static/js/main.e4bf760f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cc1184c.css",
+    "static/js/main.e4bf760f.js"
+  ]
+}

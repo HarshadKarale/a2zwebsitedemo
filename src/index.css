@@ -1,0 +1,122 @@
+.h_butt{
+  border-radius:25px;
+  width:130px;
+  padding: 10px;
+  float: right;
+}
+.h_butt1{
+  border-radius:25px;
+  width:130px;
+  padding: 10px;
+  margin-top: 20px;
+}
+.nav-link{
+  font-weight: bold;
+}
+.a_us{
+  font-size: 30px;
+}
+.navbar-nav .active{
+  border-bottom: 2px solid orange;
+}
+.slider_title{
+  margin-top: 80px;
+  font-size: 60px;
+
+}
+.slider_title1{
+  margin-top: 10px;
+  font-size: 60px;
+  font-weight: bold;
+  color: orange;
+}
+.service_card{
+  border: none;
+}
+.service_card:hover{
+  border:2px dashed orange;
+}
+.sl_button{
+  height: 50px;
+  width: 50px;
+  margin-top: 20%;
+  border: none;
+  background-color: transparent;
+}
+.background{
+  background-image: url('https://deneb-reactjs.netlify.app/assets/breadcrumb_bg.747a09a9.jpg');
+  background-size: 100% 100%;
+  height: 300px;
+  width: 100%;
+}
+.input{
+  border-radius:25px;
+  padding: 8px;
+  box-shadow:0px 5px 10px 0px silver;
+}
+.s_butt{
+  width: 180px;
+  height:40px;
+  border-radius: 25px;
+  font-weight: bold;
+  border: none;
+}
+.map{
+  height: 600px;
+  width: 100%;
+}
+.card_undl{
+  text-decoration: underline dashed;
+}
+.icons li{
+  list-style-type: none;
+  display: inline-block;
+  background-color: lightgoldenrodyellow;
+  padding: 8px;
+  border-radius: 50px;
+}
+.icons li:hover{
+  color: white;
+  background-color: orange;
+}
+.links li{
+  list-style-type: none;
+  margin-top: 10px;
+}
+.links li:hover{
+  color: orange;
+}
+.hlink{
+  text-decoration:underline dashed orange;
+}
+.ftr{
+  background-color: rgb(245, 241, 241);
+}
+.project_if{
+  border-radius: 50%;
+  padding: 20px;
+  box-shadow: 3px 3px 3px 3px silver;
+}
+.project_if:hover{
+  border: 2px dashed orange;
+}
+.but_dev{
+  border-radius:25px;
+  width:150px;
+  padding: 10px;
+}
+.p_but:hover{
+  border: 2px solid silver;
+}
+.des_card:hover{
+  box-shadow: 3px 3px 3px 3px silver;
+}
+.diff_lev{
+  box-shadow: 3px 3px 3px 3px silver;
+}
+.diff_lev:hover{
+  border: 2px dashed orange;
+}
+.blog_card:hover{
+  box-shadow: 2px 2px 2px 2px silver;
+}
